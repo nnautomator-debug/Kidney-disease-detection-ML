@@ -1,0 +1,11 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "test_add",
+			"type": "shell",
+			"command": "python test.py 5 3",
+			"args": []
+		}
+	]
+}
